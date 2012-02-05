@@ -17,5 +17,3 @@ static void __exit my_exit_fun(void)
 module_init(my_init_fun);
 module_exit(my_exit_fun);
 
-
-//Testing,,,

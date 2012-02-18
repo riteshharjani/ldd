@@ -1,3 +1,6 @@
+http://gnugeneration.com/books/linux/2.6.20/kernel-api/  // this contains all the kernel api(useful for functions defination)
+
+
 http://www.freesoftwaremagazine.com/articles/drivers_linux    //IMP LINK
 http://linux.die.net/lkmpg/x569.html 
 This project will contain step by step codes for linux device driver.
